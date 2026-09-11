@@ -1,5 +1,5 @@
-''' Wap in python to check a given
- year is a leap year or not..'''
+''' Write a program in python to check a given
+ year is a leap year or not leap year..'''
 
 year=int(input("Enter Year Num : "))
 if year%100==0:
